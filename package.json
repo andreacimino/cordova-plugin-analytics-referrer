@@ -1,0 +1,34 @@
+{
+    "version": "1.0.0",
+    "name": "cordova-plugin-analytics-referrer",
+    "cordova_name": "Cordova MBTiles Plugin",
+    "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.",
+    "author": "XXX",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/https://github.com/andreacimino/cordova-plugin-mbtiles.git"
+    },
+    "cordova": {
+        "id": "cordova-plugin-analytics-referrer",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova",
+        "android",
+        "ios",
+        "windows",
+        "phonegap",
+        "diagnostic",
+        "wifi",
+        "location",
+        "gps",
+        "camera",
+        "bluetooth",
+        "settings"
+    ]
+}
