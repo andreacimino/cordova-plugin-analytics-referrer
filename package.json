@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/https://github.com/andreacimino/cordova-plugin-mbtiles.git"
+        "url": "https://github.com/andreacimino/cordova-plugin-analytics-referrer.git"
     },
     "cordova": {
         "id": "cordova-plugin-analytics-referrer",
